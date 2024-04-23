@@ -28,5 +28,6 @@ public class StepTracker
    totalSteps+=daysWorked.get(i);
   }
   double average = (double)(totalSteps)/(double)(daysWorked.size());
-  return average;
+  return averge;
  }
+}
